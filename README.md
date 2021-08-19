@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SanchD
 - 👀 I’m interested in Electronic and Mechanical Enginering
-- 🌱 I’m currently learning Engineering
+- 🌱 I’m currently learning best practices of product development
 - 💞️ I’m looking to collaborate on Robotics
 - 📫 How to reach me sanchithadias@gmail.com
 
